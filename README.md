@@ -64,5 +64,5 @@ You can tweak the following variables in `combined_violation_system.py` to match
 ## 🔍 Troubleshooting
 - **"Speed not available"**: Ensure the vehicle crosses *both* lines. Adjust `ZONE_1_Y` and `ZONE_2_Y` if the camera angle is different.
 - **"License plate not available"**: OCR is difficult on low-res video. Use a high-resolution camera or a dedicated License Plate Recognition (LPR) model for best results.
-# Ai-based-speed-and-traffic-violation-detection-
-# Ai-based-speed-and-traffic-violation-detection
+
+
