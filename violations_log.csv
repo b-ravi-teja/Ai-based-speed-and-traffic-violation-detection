@@ -1,1 +1,99 @@
 Timestamp,ViolationID,LicensePlate,Image,Video
+20251111_161800,1,RED LIGHT,,violations/violation_1_20251111_161800.jpg,violations_videos/violation_1_20251111_161800.mp4,N/A
+20251111_161803,2,RED LIGHT,,violations/violation_2_20251111_161803.jpg,violations_videos/violation_2_20251111_161803.mp4,N/A
+20251111_161810,3,RED LIGHT,,violations/violation_3_20251111_161810.jpg,violations_videos/violation_3_20251111_161810.mp4,N/A
+20251111_161813,4,RED LIGHT,,violations/violation_4_20251111_161813.jpg,violations_videos/violation_4_20251111_161813.mp4,N/A
+20251111_161820,5,RED LIGHT,,violations/violation_5_20251111_161820.jpg,violations_videos/violation_5_20251111_161820.mp4,N/A
+20251111_161824,6,RED LIGHT,,violations/violation_6_20251111_161824.jpg,violations_videos/violation_6_20251111_161824.mp4,N/A
+20251111_161830,7,RED LIGHT,,violations/violation_7_20251111_161830.jpg,violations_videos/violation_7_20251111_161830.mp4,N/A
+20251111_161833,8,RED LIGHT,,violations/violation_8_20251111_161833.jpg,violations_videos/violation_8_20251111_161833.mp4,N/A
+20251111_161840,9,RED LIGHT,,violations/violation_9_20251111_161840.jpg,violations_videos/violation_9_20251111_161840.mp4,N/A
+20251111_161843,10,RED LIGHT,,violations/violation_10_20251111_161843.jpg,violations_videos/violation_10_20251111_161843.mp4,N/A
+20251111_161850,11,RED LIGHT,,violations/violation_11_20251111_161850.jpg,violations_videos/violation_11_20251111_161850.mp4,N/A
+20251111_161853,12,RED LIGHT,,violations/violation_12_20251111_161853.jpg,violations_videos/violation_12_20251111_161853.mp4,N/A
+20251111_161900,13,RED LIGHT,,violations/violation_13_20251111_161900.jpg,violations_videos/violation_13_20251111_161900.mp4,N/A
+20251111_161903,14,RED LIGHT,,violations/violation_14_20251111_161903.jpg,violations_videos/violation_14_20251111_161903.mp4,N/A
+20251111_161910,15,RED LIGHT,,violations/violation_15_20251111_161910.jpg,violations_videos/violation_15_20251111_161910.mp4,N/A
+20251111_161913,16,RED LIGHT,,violations/violation_16_20251111_161913.jpg,violations_videos/violation_16_20251111_161913.mp4,N/A
+20251111_161920,17,RED LIGHT,,violations/violation_17_20251111_161920.jpg,violations_videos/violation_17_20251111_161920.mp4,N/A
+20251111_161923,18,RED LIGHT,,violations/violation_18_20251111_161923.jpg,violations_videos/violation_18_20251111_161923.mp4,N/A
+20251111_161930,19,RED LIGHT,,violations/violation_19_20251111_161930.jpg,violations_videos/violation_19_20251111_161930.mp4,N/A
+20251111_161933,20,RED LIGHT,,violations/violation_20_20251111_161933.jpg,violations_videos/violation_20_20251111_161933.mp4,N/A
+20251111_161940,21,RED LIGHT,,violations/violation_21_20251111_161940.jpg,violations_videos/violation_21_20251111_161940.mp4,N/A
+20251111_161943,22,RED LIGHT,,violations/violation_22_20251111_161943.jpg,violations_videos/violation_22_20251111_161943.mp4,N/A
+20251111_161950,23,RED LIGHT,,violations/violation_23_20251111_161950.jpg,violations_videos/violation_23_20251111_161950.mp4,N/A
+20251111_161953,24,RED LIGHT,,violations/violation_24_20251111_161953.jpg,violations_videos/violation_24_20251111_161953.mp4,N/A
+20251111_162000,25,RED LIGHT,,violations/violation_25_20251111_162000.jpg,violations_videos/violation_25_20251111_162000.mp4,N/A
+20251111_162004,26,RED LIGHT,,violations/violation_26_20251111_162004.jpg,violations_videos/violation_26_20251111_162004.mp4,N/A
+20251111_162010,27,RED LIGHT,,violations/violation_27_20251111_162010.jpg,violations_videos/violation_27_20251111_162010.mp4,N/A
+20251111_162014,28,RED LIGHT,,violations/violation_28_20251111_162014.jpg,violations_videos/violation_28_20251111_162014.mp4,N/A
+20251111_162020,29,RED LIGHT,,violations/violation_29_20251111_162020.jpg,violations_videos/violation_29_20251111_162020.mp4,N/A
+20251121_184900,1,RED LIGHT,,violations/violation_1_20251121_184900.jpg,violations_videos/violation_1_20251121_184900.mp4,N/A
+20251121_184902,2,RED LIGHT,,violations/violation_2_20251121_184902.jpg,violations_videos/violation_2_20251121_184902.mp4,N/A
+20251121_184904,3,RED LIGHT,,violations/violation_3_20251121_184904.jpg,violations_videos/violation_3_20251121_184904.mp4,N/A
+20251121_184910,4,RED LIGHT,,violations/violation_4_20251121_184910.jpg,violations_videos/violation_4_20251121_184910.mp4,N/A
+20251121_184912,5,RED LIGHT,,violations/violation_5_20251121_184912.jpg,violations_videos/violation_5_20251121_184912.mp4,N/A
+20251121_184914,6,RED LIGHT,,violations/violation_6_20251121_184914.jpg,violations_videos/violation_6_20251121_184914.mp4,N/A
+20251121_190100,1,RED LIGHT JUMP,Unknown,0.00,violations/violation_1_20251121_190100.jpg,N/A
+20251121_190114,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_190114.jpg,N/A
+20251121_190122,3,RED LIGHT JUMP,Unknown,0.00,violations/violation_3_20251121_190122.jpg,N/A
+20251121_190130,4,RED LIGHT JUMP,Unknown,0.00,violations/violation_4_20251121_190130.jpg,N/A
+20251121_190130,5,RED LIGHT JUMP,Unknown,0.00,violations/violation_5_20251121_190130.jpg,N/A
+20251121_190133,6,RED LIGHT JUMP,Unknown,0.00,violations/violation_6_20251121_190133.jpg,N/A
+20251121_190341,1,RED LIGHT JUMP,Unknown,0.00,violations/violation_1_20251121_190341.jpg,N/A
+20251121_190350,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_190350.jpg,N/A
+20251121_190400,3,RED LIGHT JUMP,Unknown,0.00,violations/violation_3_20251121_190400.jpg,N/A
+20251121_190402,4,RED LIGHT JUMP,Unknown,0.00,violations/violation_4_20251121_190402.jpg,N/A
+20251121_190410,5,RED LIGHT JUMP,Unknown,0.00,violations/violation_5_20251121_190410.jpg,N/A
+20251121_190411,6,RED LIGHT JUMP,Unknown,0.00,violations/violation_6_20251121_190411.jpg,N/A
+20251121_190649,1,OVERSPEEDING,452000424FEQ,567.07,violations/violation_1_20251121_190649.jpg,N/A
+20251121_190650,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_190650.jpg,N/A
+20251121_190700,3,OVERSPEEDING,IB5576,898.75,violations/violation_3_20251121_190700.jpg,N/A
+20251121_190705,4,OVERSPEEDING,Unknown,291.61,violations/violation_4_20251121_190705.jpg,N/A
+20251121_190714,5,RED LIGHT JUMP,Unknown,0.00,violations/violation_5_20251121_190714.jpg,N/A
+20251121_190747,1,OVERSPEEDING,452000424FEQ,516.62,violations/violation_1_20251121_190747.jpg,N/A
+20251121_190754,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_190754.jpg,N/A
+20251121_190759,3,OVERSPEEDING,IB5576,936.65,violations/violation_3_20251121_190759.jpg,N/A
+20251121_190803,4,OVERSPEEDING,Unknown,305.64,violations/violation_4_20251121_190803.jpg,N/A
+20251121_190813,5,RED LIGHT JUMP,Unknown,0.00,violations/violation_5_20251121_190813.jpg,N/A
+20251121_190816,6,OVERSPEEDING,Unknown,911.97,violations/violation_6_20251121_190816.jpg,N/A
+20251121_190817,7,OVERSPEEDING,Unknown,911.43,violations/violation_7_20251121_190817.jpg,N/A
+20251121_190824,8,RED LIGHT JUMP,Unknown,0.00,violations/violation_8_20251121_190824.jpg,N/A
+20251121_190827,9,OVERSPEEDING,452000424FEQ,915.07,violations/violation_9_20251121_190827.jpg,N/A
+20251121_190827,10,OVERSPEEDING,Unknown,910.50,violations/violation_10_20251121_190827.jpg,N/A
+20251121_190834,11,RED LIGHT JUMP,Unknown,0.00,violations/violation_11_20251121_190834.jpg,N/A
+20251121_190839,12,OVERSPEEDING,IB5576,933.87,violations/violation_12_20251121_190839.jpg,N/A
+20251121_190843,13,OVERSPEEDING,Unknown,311.73,violations/violation_13_20251121_190843.jpg,N/A
+20251121_190852,14,RED LIGHT JUMP,Unknown,0.00,violations/violation_14_20251121_190852.jpg,N/A
+20251121_190855,15,OVERSPEEDING,Unknown,916.91,violations/violation_15_20251121_190855.jpg,N/A
+20251121_190857,16,OVERSPEEDING,Unknown,904.73,violations/violation_16_20251121_190857.jpg,N/A
+20251121_190904,17,RED LIGHT JUMP,Unknown,0.00,violations/violation_17_20251121_190904.jpg,N/A
+20251121_191247,1,RED LIGHT JUMP,Unknown,0.00,violations/violation_1_20251121_191247.jpg,N/A
+20251121_191254,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_191254.jpg,N/A
+20251121_191302,3,OVERSPEEDING,Unknown,1080.00,violations/violation_3_20251121_191302.jpg,N/A
+20251121_191323,4,OVERSPEEDING,Unknown,810.00,violations/violation_4_20251121_191323.jpg,N/A
+20251121_191326,5,RED LIGHT JUMP,Unknown,0.00,violations/violation_5_20251121_191326.jpg,N/A
+20251121_191416,1,RED LIGHT JUMP,Unknown,0.00,violations/violation_1_20251121_191416.jpg,N/A
+20251121_191422,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_191422.jpg,N/A
+20251121_191431,3,OVERSPEEDING,Unknown,72.00,violations/violation_3_20251121_191431.jpg,N/A
+20251121_191706,1,RED LIGHT JUMP,Unknown,0.00,violations/violation_1_20251121_191706.jpg,N/A
+20251121_191712,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_191712.jpg,N/A
+20251121_191721,3,OVERSPEEDING,Unknown,72.00,violations/violation_3_20251121_191721.jpg,N/A
+20251121_191741,4,OVERSPEEDING,Unknown,54.00,violations/violation_4_20251121_191741.jpg,N/A
+20251121_191744,5,RED LIGHT JUMP,Unknown,0.00,violations/violation_5_20251121_191744.jpg,N/A
+20251121_191751,6,RED LIGHT JUMP,Unknown,0.00,violations/violation_6_20251121_191751.jpg,N/A
+20251121_191759,7,OVERSPEEDING,Unknown,72.00,violations/violation_7_20251121_191759.jpg,N/A
+20251121_191823,1,OVERSPEEDING,452000424FEQ,216.00,violations/violation_1_20251121_191823.jpg,N/A
+20251121_191824,2,RED LIGHT JUMP,Unknown,0.00,violations/violation_2_20251121_191824.jpg,N/A
+20251121_191831,3,RED LIGHT JUMP,Unknown,0.00,violations/violation_3_20251121_191831.jpg,N/A
+20251121_191836,4,OVERSPEEDING,IB5576,216.00,violations/violation_4_20251121_191836.jpg,N/A
+20251121_191840,5,OVERSPEEDING,Unknown,72.00,violations/violation_5_20251121_191840.jpg,N/A
+20251121_191852,6,OVERSPEEDING,Unknown,216.00,violations/violation_6_20251121_191852.jpg,N/A
+20251121_191854,7,OVERSPEEDING,Unknown,216.00,violations/violation_7_20251121_191854.jpg,N/A
+20251121_191901,8,OVERSPEEDING,Unknown,54.00,violations/violation_8_20251121_191901.jpg,N/A
+20251121_191904,9,OVERSPEEDING,452000424FEQ,216.00,violations/violation_9_20251121_191904.jpg,N/A
+20251121_191918,1,OVERSPEEDING,452000424FEQ,216.00,violations/violation_1_20251121_191918.jpg,N/A
+20251121_191919,2,RED LIGHT JUMP,Unknown,90.00,violations/violation_2_20251121_191919.jpg,N/A
+20251121_191926,3,RED LIGHT JUMP,Unknown,90.00,violations/violation_3_20251121_191926.jpg,N/A
+20251121_191931,4,OVERSPEEDING,IB5576,216.00,violations/violation_4_20251121_191931.jpg,N/A
+20251121_191935,5,OVERSPEEDING,Unknown,72.00,violations/violation_5_20251121_191935.jpg,N/A

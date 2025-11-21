@@ -1,0 +1,6 @@
+Timestamp,ViolationID,Type,LicensePlate,Speed (km/h),Image,Video
+20251121_192616,1,OVERSPEEDING,452000424FEQ,216.00,violations/violation_1_20251121_192616.jpg,N/A
+20251121_192617,2,RED LIGHT JUMP,Unknown,90.00,violations/violation_2_20251121_192617.jpg,N/A
+20251121_192623,3,RED LIGHT JUMP,Unknown,90.00,violations/violation_3_20251121_192623.jpg,N/A
+20251121_192628,4,OVERSPEEDING,IB5576,216.00,violations/violation_4_20251121_192628.jpg,N/A
+20251121_192632,5,OVERSPEEDING,Unknown,72.00,violations/violation_5_20251121_192632.jpg,N/A
